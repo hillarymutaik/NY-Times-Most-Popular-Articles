@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\MUTAI\\Documents\\GitHub\\NYTimes\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\MUTAI\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\MUTAI\\Documents\\GitHub\\NYTimes\\app\\.cxx\\Debug\\692y3j1y\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\MUTAI\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\MUTAI\\Documents\\GitHub\\NYTimes\\app\\.cxx\\Debug\\692y3j1y\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\MUTAI\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\MUTAI\\Documents\\GitHub\\NYTimes\\app\\.cxx\\Debug\\692y3j1y\\x86",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "output": "C:\\Users\\MUTAI\\Documents\\GitHub\\NYTimes\\app\\build\\intermediates\\cxx\\Debug\\692y3j1y\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

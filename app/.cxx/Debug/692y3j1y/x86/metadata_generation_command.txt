@@ -1,0 +1,24 @@
+                    Executable : C:\Users\MUTAI\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\MUTAI\Documents\GitHub\NYTimes\app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\MUTAI\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=C:\Users\MUTAI\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\MUTAI\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\MUTAI\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\MUTAI\Documents\GitHub\NYTimes\app\build\intermediates\cxx\Debug\692y3j1y\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\MUTAI\Documents\GitHub\NYTimes\app\build\intermediates\cxx\Debug\692y3j1y\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\MUTAI\Documents\GitHub\NYTimes\app\.cxx\Debug\692y3j1y\x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

@@ -1,0 +1,3 @@
+C:/Users/MUTAI/Documents/GitHub/NYTimes/app/.cxx/Debug/692y3j1y/x86/CMakeFiles/native-lib.dir
+C:/Users/MUTAI/Documents/GitHub/NYTimes/app/.cxx/Debug/692y3j1y/x86/CMakeFiles/edit_cache.dir
+C:/Users/MUTAI/Documents/GitHub/NYTimes/app/.cxx/Debug/692y3j1y/x86/CMakeFiles/rebuild_cache.dir
